@@ -1,14 +1,14 @@
 {
-  "$schema": "../schemas/profile.schema.json",
-  "github": "sandrone-7",
-  "displayName": "彥叡",
-  "tagline": "希望能在營隊中持續提升自己的程式設計能力。",
-  "interests": [
-    "AI"
-  ],
-  "faction": {
-    "os": "windows",
-    "browser": "chrome",
-    "editor": "vscode"
-  }
+    "$schema": "../schemas/profile.schema.json",
+    "github": "sandrone-7",
+    "displayName": "彥叡",
+    "tagline": "希望能在營隊中持續提升自己的程式設計能力。",
+    "interests": [
+        "AI"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
 }
