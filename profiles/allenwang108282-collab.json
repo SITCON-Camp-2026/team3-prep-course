@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "allenwang108282-collab",
+    "displayName": "又弘",
+    "tagline": "想把點子做成可以互動的網頁",
+    "interests": [
+        "AI",
+        "python"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}
