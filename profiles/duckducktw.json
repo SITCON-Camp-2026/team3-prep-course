@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "duckducktw",
+    "displayName": "烤鴨",
+    "tagline": "不知道",
+    "interests": [
+        "Coding",
+        "Minecraft"
+    ],
+    "faction": {
+        "os": "linux",
+        "browser": "firefox",
+        "editor": "vscode"
+    }
+}
