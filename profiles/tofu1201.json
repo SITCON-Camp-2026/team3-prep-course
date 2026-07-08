@@ -1,0 +1,16 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "tofu1201",
+    "displayName": "豆腐",
+    "tagline": "116會考牲",
+    "interests": [
+        "AI",
+        "Python",
+        "HTML"
+    ],
+    "faction": {
+        "os": "macos",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}
