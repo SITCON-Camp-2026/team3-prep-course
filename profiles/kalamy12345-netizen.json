@@ -1,0 +1,16 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "kalamy12345-netizen",
+    "displayName": "鍋貼",
+    "tagline": "喜歡音樂",
+    "interests": [
+        "AI",
+        "音樂",
+        "程式"
+    ],
+    "faction": {
+        "os": "macos",
+        "browser": "safari",
+        "editor": "vscode"
+    }
+}

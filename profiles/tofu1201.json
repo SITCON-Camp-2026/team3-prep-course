@@ -1,12 +1,12 @@
 {
     "$schema": "../schemas/profile.schema.json",
-    "github": "slimuCS",
-    "displayName": "AI、音樂、程式",
-    "tagline": "想把點子做成可以互動的網頁",
+    "github": "tofu1201",
+    "displayName": "豆腐",
+    "tagline": "116會考牲",
     "interests": [
         "AI",
-        "後端",
-        "資料科學"
+        "Python",
+        "HTML"
     ],
     "faction": {
         "os": "macos",

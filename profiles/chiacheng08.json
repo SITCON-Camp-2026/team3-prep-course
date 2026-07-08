@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "chiacheng08",
+    "displayName": "家誠",
+    "tagline": "今年第一次接觸程式,喜歡跟大家一起學習！",
+    "interests": [
+        "AI",
+        "UI設計"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "jetbrains"
+    }
+}
