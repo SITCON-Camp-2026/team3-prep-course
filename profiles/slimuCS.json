@@ -1,7 +1,7 @@
 {
     "$schema": "../schemas/profile.schema.json",
     "github": "slimuCS",
-    "displayName": "AI、音樂、程式",
+    "displayName": "萊姆",
     "tagline": "想把點子做成可以互動的網頁",
     "interests": [
         "AI",
